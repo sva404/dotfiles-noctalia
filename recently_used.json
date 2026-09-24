@@ -1,0 +1,13 @@
+{
+  "Applications": [
+    "/usr/share/applications/zen.desktop",
+    "/usr/share/applications/org.kde.dolphin.desktop",
+    "/usr/share/applications/dev.zed.Zed.desktop",
+    "/usr/share/applications/google-chrome.desktop",
+    "/usr/share/applications/com.mitchellh.ghostty.desktop",
+    "/usr/share/applications/kitty.desktop",
+    "/usr/share/applications/Alacritty.desktop",
+    "/usr/share/applications/btop.desktop",
+    "/usr/share/applications/firefox.desktop"
+  ]
+}

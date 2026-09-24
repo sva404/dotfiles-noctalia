@@ -1,0 +1,731 @@
+{
+  "change_serial": 107,
+  "entries": [
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 41,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: Somos Internet - Pago pendiente de verificación - Somos Internet",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1789740855584,
+        "icon": null,
+        "id": 24,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_bf4d90ae8614175b27a6374b3700e1d4.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1789740849584,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 42,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: Wompi - Transacción APROBADA en SOMOS INTERNET - ref. 1575382-791cb75e1fe6003f876c-1789740816",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1789740855715,
+        "icon": null,
+        "id": 25,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_bf4d90ae8614175b27a6374b3700e1d4.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1789740849715,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 43,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: Somos Internet - Tu pago ha sido procesado - Somos Internet",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1789740855843,
+        "icon": null,
+        "id": 26,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_bf4d90ae8614175b27a6374b3700e1d4.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1789740849843,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 45,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: LinkedIn Job Alerts - Desarrollador Backend Junior/Node.js/APIs/SQL at Profitline",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1789743620207,
+        "icon": null,
+        "id": 27,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_bf4d90ae8614175b27a6374b3700e1d4.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1789743614207,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 47,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: facture.co - 901464013;SOMOS NETWORKS COLOMBIA S.A.S.;FB2C676789;01;SOMOS NETWORKS COLOMBIA S.A.S.",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1789755051560,
+        "icon": null,
+        "id": 32,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_bf4d90ae8614175b27a6374b3700e1d4.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1789755045560,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 49,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: Mercado Libre Careers - Santiago, this job is a match!",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1789762102633,
+        "icon": null,
+        "id": 33,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_bf4d90ae8614175b27a6374b3700e1d4.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1789762096633,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 51,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: THE FINALS - A New Chapter 📡",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1789764911618,
+        "icon": null,
+        "id": 34,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_bf4d90ae8614175b27a6374b3700e1d4.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1789764905618,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 53,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: GitHub - [GitHub] A third-party OAuth application has been added to your account",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1789766526647,
+        "icon": null,
+        "id": 35,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_bf4d90ae8614175b27a6374b3700e1d4.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1789766520647,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 55,
+      "notification": {
+        "actions": [
+          "run",
+          "Run Cachy-Update",
+          "close",
+          "Close"
+        ],
+        "app_name": "Cachy-Update",
+        "body": "98 updates available",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1789832069501,
+        "icon": "cachy-update_updates-available-blue",
+        "id": 36,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1789832063501,
+        "summary": "Cachy-Update",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 57,
+      "notification": {
+        "actions": [
+          "run",
+          "Run Cachy-Update",
+          "close",
+          "Close"
+        ],
+        "app_name": "Cachy-Update",
+        "body": "108 updates available",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1789942263340,
+        "icon": "cachy-update_updates-available-blue",
+        "id": 37,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1789942257340,
+        "summary": "Cachy-Update",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 59,
+      "notification": {
+        "actions": [],
+        "app_name": "CachyOS Update",
+        "body": "Reboot is recommended due to the upgrade of core system package(s).",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790090302923,
+        "icon": "system-reboot",
+        "id": 38,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1790090292923,
+        "summary": "Reboot recommended!",
+        "timeout": 10000,
+        "urgency": "critical"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 61,
+      "notification": {
+        "actions": [
+          "run",
+          "Run Cachy-Update",
+          "close",
+          "Close"
+        ],
+        "app_name": "Cachy-Update",
+        "body": "1 update available",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790091617037,
+        "icon": "cachy-update_updates-available-blue",
+        "id": 40,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1790091611037,
+        "summary": "Cachy-Update",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 63,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: QwenCloud - Welcome to QwenCloud",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1790093213459,
+        "icon": null,
+        "id": 41,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6fc1d194a13f2d125999ce9ee48f2ae5.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1790093207459,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 65,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: Nu - ¡Listo! Ya tienes tu tarjeta virtual",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1790093492918,
+        "icon": null,
+        "id": 42,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6fc1d194a13f2d125999ce9ee48f2ae5.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1790093486918,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 67,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: Alibaba Cloud - Your Token Plan Individual  Instances  Have  Been Created",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1790093929387,
+        "icon": null,
+        "id": 43,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6fc1d194a13f2d125999ce9ee48f2ae5.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1790093923387,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 69,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: WWF Colombia - 🏃‍♀️ Quedan 100 cupos para correr por la Amazonía 🌿",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1790100017632,
+        "icon": null,
+        "id": 44,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6fc1d194a13f2d125999ce9ee48f2ae5.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1790100011632,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 71,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: LinkedIn - You appeared in 1 searches this week",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1790121920636,
+        "icon": null,
+        "id": 45,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6fc1d194a13f2d125999ce9ee48f2ae5.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1790121914636,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 73,
+      "notification": {
+        "actions": [
+          "run",
+          "Run Cachy-Update",
+          "close",
+          "Close"
+        ],
+        "app_name": "Cachy-Update",
+        "body": "44 updates available",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1790173196160,
+        "icon": "cachy-update_updates-available-blue",
+        "id": 46,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1790173190160,
+        "summary": "Cachy-Update",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 92,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: LinkedIn Job Alerts - Junior Software Developer at Masiv",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1790197372823,
+        "icon": null,
+        "id": 54,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_e8ebe5566c2cd72ca7c74e612ff03bb1.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1790197366823,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 101,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: Lifemiles - Dale un boost a tus millas🚀",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1790197963904,
+        "icon": null,
+        "id": 55,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_e8ebe5566c2cd72ca7c74e612ff03bb1.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1790197957904,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 104,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: LeetCode - Santiago Villota, Join Your First Contest and Win 200 LeetCoins!",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1790203712444,
+        "icon": null,
+        "id": 56,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_e8ebe5566c2cd72ca7c74e612ff03bb1.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1790203706444,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 105,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: ARC Raiders - FROZEN TRAIL FIRST LOOK: Preview upcoming content from the October Update",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1790203712689,
+        "icon": null,
+        "id": 57,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_e8ebe5566c2cd72ca7c74e612ff03bb1.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1790203706689,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 107,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate"
+        ],
+        "app_name": "Zen",
+        "body": "From: New Yorker Substack - Is A.I. Above the Law?",
+        "category": null,
+        "desktop_entry": "zen",
+        "expiry_wall_ms": 1790204895381,
+        "icon": null,
+        "id": 58,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_e8ebe5566c2cd72ca7c74e612ff03bb1.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1790204889381,
+        "summary": "New email received",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    }
+  ],
+  "next_id": 59,
+  "version": 2
+}
