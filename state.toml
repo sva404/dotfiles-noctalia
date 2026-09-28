@@ -32,7 +32,7 @@ width_text = "24"
 calendar_credentials_v1 = true
 
 [theme_templates]
-applied_builtin_ids = "alacritty ghostty gtk3 gtk4 hyprland kcolorscheme kitty qt"
+applied_builtin_ids = "alacritty btop ghostty gtk3 gtk4 hyprland kcolorscheme kitty qt"
 
 [wallpaper_panel]
 flatten = true

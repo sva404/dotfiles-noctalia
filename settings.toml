@@ -53,8 +53,7 @@ widget_order = [ "lockscreen-login-box@eDP-1" ]
 
 [nightlight]
 enabled = true
-temperature_day = 5800
-temperature_night = 4500
+temperature_day = 5600
 
 [shell]
 telemetry_enabled = true
@@ -73,17 +72,17 @@ source = "wallpaper"
 wallpaper_scheme = "m3-monochrome"
 
     [theme.templates]
-    builtin_ids = [ "alacritty", "gtk3", "gtk4", "ghostty", "hyprland", "kcolorscheme", "kitty", "qt" ]
+    builtin_ids = [ "alacritty", "btop", "gtk3", "gtk4", "ghostty", "hyprland", "kcolorscheme", "kitty", "qt" ]
     community_ids = [ "zen-browser", "neovim" ]
 
 [wallpaper.default]
-path = "/home/sva/Pictures/city.png"
+path = "/home/sva/Pictures/ascii_adam.png"
 
 [wallpaper.last]
-path = "/home/sva/Pictures/city.png"
+path = "/home/sva/Pictures/ascii_adam.png"
 
 [wallpaper.monitors.eDP-1]
-path = "/home/sva/Pictures/city.png"
+path = "/home/sva/Pictures/ascii_adam.png"
 
 [[wallpaper.favorite]]
 community_palette = "Zenbones"

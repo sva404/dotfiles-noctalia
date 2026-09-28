@@ -1,11 +1,13 @@
 {
   "Applications": {
     "/usr/share/applications/Alacritty.desktop": 1,
+    "/usr/share/applications/SONE.desktop": 3,
     "/usr/share/applications/btop.desktop": 2,
     "/usr/share/applications/com.mitchellh.ghostty.desktop": 4,
+    "/usr/share/applications/com.obsproject.Studio.desktop": 5,
     "/usr/share/applications/dev.zed.Zed.desktop": 4,
     "/usr/share/applications/firefox.desktop": 4,
-    "/usr/share/applications/google-chrome.desktop": 3,
+    "/usr/share/applications/google-chrome.desktop": 4,
     "/usr/share/applications/kitty.desktop": 2,
     "/usr/share/applications/org.kde.dolphin.desktop": 22,
     "/usr/share/applications/zen.desktop": 29
